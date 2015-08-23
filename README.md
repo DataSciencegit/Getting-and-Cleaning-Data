@@ -32,5 +32,4 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 8. As per the description on the data set in the course project appropriately label the data set with descriptive variable names. The gsub command is used to search and replace the existing names with descriptive names.
 
 9. From the dataset, a second dataset was created that list the average of each variable for each activity and each subject.
-=======
->>>>>>> 0aa28cf8107020d64447e4e38fa7fd26f575ad78
+
