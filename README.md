@@ -1,6 +1,7 @@
 # Getting and Cleaning Data Course Project 
 
-Project: You should create one R script called run_analysis.R that does the following. 
+Project: Create one R script called run_analysis.R that does the following.
+
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
 * Uses descriptive activity names to name the activities in the data set
@@ -10,15 +11,15 @@ Project: You should create one R script called run_analysis.R that does the foll
 
 ## Steps involved in running the program to generate a tidy dataset
 
-Download the file from the below URL and save it in a directory named “data”. If data folder does not exist it creates one.
+1. Download file from the below URL and save it in a directory named “data”.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-2. Once downloaded the program unzips the file
+2. Once downloaded the program unzips the file. If the program has download issues, when running the script ensure that the folder "data" exists in the same directory where script is present.
 
 3. A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-4. Read the all the files needed to accomplish the result.
+4. Read all the files needed to accomplish the result.
 
 5. Label testX and trainX dataset with variables from features, rename the columns for subject and activity dataset and then merge the activity and subject columns and concatenate the data tables by rows. This merges the training and the test sets to create one data set.
 
