@@ -8,9 +8,9 @@ Project: You should create one R script called run_analysis.R that does the foll
 * From the data set in step 4, creates a second, independent tidy data set with the 
 * average of each variable for each activity and each subject.
 
-Steps involved in running the program to generate a tidy dataset
+## Steps involved in running the program to generate a tidy dataset
 
-1 Download the file from the below URL and save it in a directory named “data”. If data folder does not exist it creates one.
+Download the file from the below URL and save it in a directory named “data”. If data folder does not exist it creates one.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. Once downloaded the program unzips the file
