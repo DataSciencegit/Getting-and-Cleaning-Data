@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # run_analysis
 Getting and Cleaning Data Course Project
 
@@ -30,3 +31,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 8. As per the description on the data set in the course project appropriately label the data set with descriptive variable names. The gsub command is used to search and replace the existing names with descriptive names.
 
 9. From the dataset, a second dataset was created that list the average of each variable for each activity and each subject.
+=======
+# Getting-and-Cleaning-Data
+>>>>>>> 65acc696509c356b818019d82c515fc367d632a6
